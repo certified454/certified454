@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @certufied454 also name Tasiu Naimah 
+- 👀 I’m interested in building webapp that attract users
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on any web project both full stack, back-end or front-end
+- 📫 How to reach me on Whatsapp @09163301828 or Instagram @realnaimah LinkedIn @sighternation
+- ⚡ Fun fact: i love making funs.
+- feel free to contact me for Collab 
